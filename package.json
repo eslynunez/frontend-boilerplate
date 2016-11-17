@@ -32,7 +32,7 @@
   "main": "Gruntfile.js",
   "directories": {
     "test": "test",
-    "setup" "/scripts/setup.sh"
+    "setup": "/scripts/setup.sh"
   },
   "dependencies": {},
   "scripts": {
