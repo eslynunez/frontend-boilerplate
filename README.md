@@ -1,8 +1,8 @@
 # MCD micro-services frontend prototyping tool
 
-    For quick prototyping with node.js, backbone.js, bootstrap, sass (optional) use this repo!
+For quick prototyping with node.js, backbone.js, bootstrap, sass (optional) use this repo!
 
-    branch or fork but DO NOT COMMIT to master branch!
+Branch or fork but DO NOT COMMIT to master branch!
 
 ## Project Setup 
 
@@ -15,13 +15,12 @@
     ```npm install && bower install```
 
 #### 3. Start
-    Start server!
+Start server!
     ```grunt serve```
 
 
 #### setup script coming soon!
 
-
-    Enjoy! :)
+## Enjoy! :)
  
 :sweet_potato: :sweet_potato: :sweet_potato: :sweet_potato: :sweet_potato: :sweet_potato:
