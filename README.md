@@ -1,4 +1,4 @@
-#MCD micro-services frontend prototyping tool
+# MCD micro-services frontend prototyping tool
 
 For quick prototyping with node.js, backbone.js, bootstrap, sass (optional) use this repo!
 
