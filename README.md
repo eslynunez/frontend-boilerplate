@@ -1,4 +1,4 @@
-**MCD micro-services frontend prototyping tool
+#MCD micro-services frontend prototyping tool
 
 For quick prototyping with node.js, backbone.js, bootstrap, sass (optional) use this repo!
 
@@ -24,6 +24,6 @@ Start server!
 
 ```grunt serve```
 
-**** setup script coming soon!
+#### setup script coming soon!
 
 :sweet_potato: :sweet_potato: :sweet_potato: Enjoy! :) :sweet_potato: :sweet_potato: :sweet_potato:
