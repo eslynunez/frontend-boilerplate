@@ -8,15 +8,15 @@ Branch or fork but DO NOT COMMIT to master branch!
 
 #### 1. Clone
 
-    ```git clone git@git.mobilesmith.com:esly.nunez/frontend-prototype.git```
+```git clone git@git.mobilesmith.com:esly.nunez/frontend-prototype.git```
 
 #### 2. Setup
 
-    ```npm install && bower install```
+```npm install && bower install```
 
 #### 3. Start
 Start server!
-    ```grunt serve```
+```grunt serve```
 
 
 #### setup script coming soon!
