@@ -1,8 +1,6 @@
 # MCD micro-services frontend prototyping tool
 
-For quick prototyping with node.js, backbone.js, bootstrap, sass (optional) use this repo!
-
-Branch or fork but DO NOT COMMIT to master branch!
+For quick prototyping with backbone.js, bootstrap, sass (optional) use this repo!
 
 ## Project Setup 
 
