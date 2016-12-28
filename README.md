@@ -6,7 +6,7 @@ For quick prototyping with backbone.js, bootstrap, sass (optional) use this repo
 
 #### 1. Clone
 
-```git clone git@git.mobilesmith.com:esly.nunez/frontend-prototype.git```
+```git clone https://github.com/eslynunez/frontend-boilerplate.git```
 
 #### 2. Setup
 
