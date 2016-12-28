@@ -1,6 +1,5 @@
-# MCD micro-services frontend prototyping tool
 
-For quick prototyping with backbone.js, bootstrap, sass (optional) use this repo!
+For quick prototyping use this project!
 
 ## Project Setup 
 
@@ -23,3 +22,4 @@ Start server!
 ## Enjoy! :)
  
 :sweet_potato: :sweet_potato: :sweet_potato: :sweet_potato: :sweet_potato: :sweet_potato:
+
